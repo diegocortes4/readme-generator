@@ -20,4 +20,18 @@ Create an application that demostrate a Readme Generator.
  
  Run node index.js
 
+ ## License
+
+None
+
+## Test
+ 
+ Run test
+
+ ## Questions
+
+ contact me:
+
+ 
+
 
