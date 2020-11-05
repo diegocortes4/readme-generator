@@ -22,7 +22,7 @@ function init() {
           name: 'description',
           message: "Please type your description",
           default: function () {
-            return 'Doe';
+           
           },
         },
         {

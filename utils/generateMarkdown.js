@@ -5,8 +5,29 @@ function generateMarkdown(data) {
 `;
 }
 
+function generateMarkdown(data.usage) {
+  return `# ${data.usage}
 
-module.exports = generateMarkdown;
+`;
+}
+
+function generateMarkdown(data.license) {
+  return `# ${data.license}
+
+`;
+}
+
+mfunction generateMarkdown(data.title) {
+  return `# ${data.title}
+
+`;
+}
+function generateMarkdown(data.test) {
+  return `# ${data.test}
+
+`;
+}
+odule.exports = generateMarkdown;
 
 // "title": "none",
 //   "description": "description",
